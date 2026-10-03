@@ -1,0 +1,8 @@
+{
+  "name": "Creative Studio - Graphic Design & Video Editing",
+  "description": "ગુજરાતી ગ્રાફિક ડિઝાઇનર અને વિડિઓ એડિટર પોર્ટફોલિયો, પોસ્ટર, વિડિઓ રીલ્સ, ભાવ પત્રક અને સીધો ઓનલાઇન ઓર્ડર પ્લેટફોર્મ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
